@@ -12,5 +12,6 @@ namespace Data.Entities
         public Boolean IsShowHome { get; set; }
         public int? ParentId { get; set; }
         public Status Status { get; set; }
+        public List<ProductInCategory> ProductInCategories { get; set; }
     }
 }

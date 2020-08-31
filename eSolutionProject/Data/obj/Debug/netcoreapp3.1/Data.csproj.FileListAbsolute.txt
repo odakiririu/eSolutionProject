@@ -6,3 +6,7 @@ D:\eSolutionProject\eSolutionProject\eSolutionProject\Data\obj\Debug\netcoreapp3
 D:\eSolutionProject\eSolutionProject\eSolutionProject\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
 D:\eSolutionProject\eSolutionProject\eSolutionProject\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
 D:\eSolutionProject\eSolutionProject\eSolutionProject\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache

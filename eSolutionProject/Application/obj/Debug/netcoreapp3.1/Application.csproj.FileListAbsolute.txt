@@ -1,0 +1,9 @@
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\eSolutionProject\eSolutionProject\eSolutionProject\Application\obj\Debug\netcoreapp3.1\Application.pdb
